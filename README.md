@@ -6,7 +6,7 @@ Before running
 - Install node modules
 
 How to run
-- Create a fikder
+- Create a folder
 - Run a new terminal
 - cd (folder path) (you can just drag the folder after typing 'cd', then enter)
 - then type, 'node index.js' and enter the url to generate a qr
